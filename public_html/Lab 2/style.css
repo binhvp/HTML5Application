@@ -5,3 +5,12 @@ p {
     text-indent: 50px;
     text-align: justify;
 }
+#id1{
+    color: violet;
+}
+.class01{
+    color: #CC9900;
+}
+h1 {
+    color: pink;
+}
